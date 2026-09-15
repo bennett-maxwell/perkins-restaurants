@@ -1,0 +1,599 @@
+{
+ "slug": "perkins-restaurants",
+ "brand": "Perkins",
+ "displayName": "Perkins",
+ "brandName": "Perkins",
+ "field_count": 41,
+ "franchiseFee": 40000,
+ "totalInvestmentMin": 1443890,
+ "totalInvestmentMax": 3581375,
+ "royaltyFee": "4%",
+ "royaltyPercent": "4%",
+ "royaltyDetail": "4% of Net Sales, paid weekly (FDD Item 6, printed pp.19-20)",
+ "adFee": "3%",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "FDD text grep found no net-worth requirement language; recorded as 'not disclosed in FDD' per three-state rule",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "FDD text grep found no liquid-capital requirement language; recorded as 'not disclosed in FDD' per three-state rule",
+ "hqAddress": "5901-B Peachtree Dunwoody Road, Suite 450, Sandy Springs, GA 30328",
+ "hqCity": "Sandy Springs",
+ "hqState": "GA",
+ "hqZip": "30328",
+ "corporateCity": "Sandy Springs",
+ "corporateState": "GA",
+ "corporateZip": "30328",
+ "corporateAddress": "5901-B Peachtree Dunwoody Road, Suite 450, Sandy Springs, GA 30328",
+ "territory": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+ "territoryDescription": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+ "territoryType": "non-exclusive",
+ "territoryType_provenance": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+ "description": "Perkins LLC franchises full-service family restaurants operating as Perkins Restaurant and Bakery, a brand serving all-day breakfast, lunch, dinner, and bakery since 1958. Its Franchise Disclosure Document reports 257 restaurants open at the end of fiscal 2024, including 175 franchised and 82 company-owned locations. Item 19 shows 168 reporting franchised restaurants averaging $1,933,346 in annual sales with a $1,929,925 median. The standard franchise fee is $40,000 for a 20-year term, and the estimated initial investment for a traditional restaurant ranges from $1,443,890 to $3,581,375. Franchisees pay a 4% weekly royalty plus a 3% brand fund contribution and 1% local marketing requirement, and territories are non-exclusive.",
+ "category": "Food & Beverage",
+ "website": "https://perkinsfranchising.com/",
+ "websiteUrl": "https://perkinsfranchising.com/",
+ "logoUrl": "https://perkinsfranchising.com/wp-content/uploads/2023/07/logo-header.svg",
+ "yearFounded": 1958,
+ "yearFranchising": 2020,
+ "fddYear": 2025,
+ "franchiseTerm": "20 years",
+ "totalUnits": 257,
+ "openLocations": 257,
+ "franchisedUnits": 175,
+ "companyUnits": 82,
+ "item20PinCount": 257,
+ "item19Summary": "168 reporting franchised restaurants (2024); average $1,933,346; median $1,929,925 (FDD Item 19, extracted pp.77-78)",
+ "pins": [
+  {
+   "city": "Blytheville",
+   "state": "AR",
+   "label": "Blytheville, AR",
+   "zip": "72315",
+   "latitude": 35.9283249,
+   "longitude": -89.9045612,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Fort Dodge",
+   "state": "IA",
+   "label": "Fort Dodge, IA",
+   "zip": "50501",
+   "latitude": 42.5044017,
+   "longitude": -94.1910044,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Bemidji",
+   "state": "MN",
+   "label": "Bemidji, MN",
+   "zip": "56601",
+   "latitude": 47.4723148,
+   "longitude": -94.8832791,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Worthington",
+   "state": "MN",
+   "label": "Worthington, MN",
+   "zip": "56187",
+   "latitude": 43.6205056,
+   "longitude": -95.5956434,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Staten Island",
+   "state": "NY",
+   "label": "Staten Island, NY",
+   "zip": "10305",
+   "latitude": 40.5834557,
+   "longitude": -74.1496048,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Avondale",
+   "state": "PA",
+   "label": "Avondale, PA",
+   "zip": "19311",
+   "latitude": 39.8247928,
+   "longitude": -75.7832662,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Lewisburg",
+   "state": "PA",
+   "label": "Lewisburg, PA",
+   "zip": "17837",
+   "latitude": 40.9645337,
+   "longitude": -76.8847639,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Yankton",
+   "state": "SD",
+   "label": "Yankton, SD",
+   "zip": "57078",
+   "latitude": 42.8712938,
+   "longitude": -97.3967011,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Casper",
+   "state": "WY",
+   "label": "Casper, WY",
+   "zip": "82609",
+   "latitude": 42.8501191,
+   "longitude": -106.325138,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Lady Lake",
+   "state": "FL",
+   "label": "Lady Lake, FL",
+   "zip": "32159",
+   "latitude": 28.9174855,
+   "longitude": -81.9228604,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Peoria",
+   "state": "IL",
+   "label": "Peoria, IL",
+   "zip": "61614",
+   "latitude": 40.6938609,
+   "longitude": -89.5891008,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  },
+  {
+   "city": "Maplewood",
+   "state": "MN",
+   "label": "Maplewood, MN",
+   "zip": "55109",
+   "latitude": 45.0082216,
+   "longitude": -93.0456985,
+   "source": "FDD Item 20 franchisee list (issued September 30, 2025; amended October 23, 2025 and January 12, 2026); coordinates via Nominatim forward-geocode 2026-09-15"
+  }
+ ],
+ "riskScore": 51,
+ "risk_score": 51,
+ "risk_method": "base 50 + scale 6 + unit economics 5 + longevity 4 + company units 3 - capital intensity 8 - ongoing fees 5 - territory 4 = 51",
+ "risk_components": [
+  {
+   "name": "scale",
+   "weight": 6,
+   "note": "257 restaurants at FY2024 end (FDD Item 20, extracted p.84)"
+  },
+  {
+   "name": "unit economics",
+   "weight": 5,
+   "note": "168 reporting franchised restaurants; avg $1,933,346, median $1,929,925 (FDD Item 19, extracted pp.77-78)"
+  },
+  {
+   "name": "longevity",
+   "weight": 4,
+   "note": "Brand operating since 1958 (FDD Item 1, extracted p.7)"
+  },
+  {
+   "name": "company units",
+   "weight": 3,
+   "note": "82 company-owned restaurants \u2014 franchisor operates units (FDD Item 20, extracted p.84)"
+  },
+  {
+   "name": "capital intensity",
+   "weight": -8,
+   "note": "Initial investment $1,443,890-$3,581,375 traditional (FDD Item 7, printed pp.27-28)"
+  },
+  {
+   "name": "ongoing fees",
+   "weight": -5,
+   "note": "4% royalty + 3% brand fund + 1% local = 8% of sales (FDD Item 6, printed pp.19-20)"
+  },
+  {
+   "name": "territory",
+   "weight": -4,
+   "note": "Territory non-exclusive (FDD Item 12, printed pp.60-61)"
+  }
+ ],
+ "riskScoreInputs": "scale +6 (257 restaurants at FY2024 end (FDD Item 20, extracted p.84)); unit economics +5 (168 reporting franchised restaurants; avg $1,933,346, median $1,929,925 (FDD Item 19, extracted pp.77-78)); longevity +4 (Brand operating since 1958 (FDD Item 1, extracted p.7)); company units +3 (82 company-owned restaurants \u2014 franchisor operates units (FDD Item 20, extracted p.84)); capital intensity -8 (Initial investment $1,443,890-$3,581,375 traditional (FDD Item 7, printed pp.27-28)); ongoing fees -5 (4% royalty + 3% brand fund + 1% local = 8% of sales (FDD Item 6, printed pp.19-20)); territory -4 (Territory non-exclusive (FDD Item 12, printed pp.60-61))",
+ "risk_source": "build_fields.py additive inputs (brand_data.py)",
+ "fields": {
+  "legalName": {
+   "value": "Perkins LLC",
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "brandName": {
+   "value": "Perkins",
+   "source": "FDD Item 1 / cover",
+   "type": "absolute"
+  },
+  "dba": {
+   "value": "Perkins / Perkins Restaurant and Bakery",
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "entityType": {
+   "value": "limited liability company",
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "formation": {
+   "value": "current franchisor began offering franchises March 4, 2020; brand history dates to 1958 (FDD Item 1, extracted p.7)",
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "principalAddress": {
+   "value": "5901-B Peachtree Dunwoody Road, Suite 450, Sandy Springs, GA 30328",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "hqCity": {
+   "value": "Sandy Springs",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "hqState": {
+   "value": "GA",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "hqZip": {
+   "value": "30328",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "corporateCity": {
+   "value": "Sandy Springs",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "corporateState": {
+   "value": "GA",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "corporateZip": {
+   "value": "30328",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "corporateAddress": {
+   "value": "5901-B Peachtree Dunwoody Road, Suite 450, Sandy Springs, GA 30328",
+   "source": "FDD Item 1, extracted p.7",
+   "type": "absolute"
+  },
+  "franchiseFee": {
+   "value": 40000,
+   "source": "FDD Item 5, printed p.16 (standard fee; non-traditional terms differ)",
+   "type": "absolute"
+  },
+  "totalInvestmentMin": {
+   "value": 1443890,
+   "source": "traditional restaurant model (FDD Item 7, printed pp.27-28)",
+   "type": "absolute"
+  },
+  "totalInvestmentMax": {
+   "value": 3581375,
+   "source": "traditional restaurant model (FDD Item 7, printed pp.27-28)",
+   "type": "absolute"
+  },
+  "royaltyFee": {
+   "value": "4%",
+   "source": "4% of Net Sales, paid weekly (FDD Item 6, printed pp.19-20)",
+   "type": "absolute"
+  },
+  "royaltyDetail": {
+   "value": "4% of Net Sales, paid weekly (FDD Item 6, printed pp.19-20)",
+   "source": "4% of Net Sales, paid weekly (FDD Item 6, printed pp.19-20)",
+   "type": "absolute"
+  },
+  "adFee": {
+   "value": "3%",
+   "source": "3% brand fund + 1% local marketing requirement for traditional units (FDD Item 6, printed pp.19-20)",
+   "type": "absolute"
+  },
+  "adFeeDetail": {
+   "value": "3% brand fund + 1% local marketing requirement for traditional units (FDD Item 6, printed pp.19-20)",
+   "source": "3% brand fund + 1% local marketing requirement for traditional units (FDD Item 6, printed pp.19-20)",
+   "type": "absolute"
+  },
+  "territoryType": {
+   "value": "non-exclusive",
+   "source": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+   "type": "absolute"
+  },
+  "territoryDescription": {
+   "value": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+   "source": "Territory is non-exclusive; generally ~0.5 mile urban, 2 miles suburban, up to 3 miles beyond suburban (FDD Item 12, printed pp.60-61).",
+   "type": "absolute"
+  },
+  "franchiseTerm": {
+   "value": "20 years",
+   "source": "FDD Item 5/Item 17 (standard term; non-traditional terms differ)",
+   "type": "absolute"
+  },
+  "renewalTerm": {
+   "value": "see FDD Item 17",
+   "source": "FDD Item 5/Item 17 (standard term; non-traditional terms differ)",
+   "type": "absolute"
+  },
+  "franchisedUnits": {
+   "value": 175,
+   "source": "FDD Item 20, extracted p.84 (at FY2024 end)",
+   "type": "absolute"
+  },
+  "companyUnits": {
+   "value": 82,
+   "source": "FDD Item 20, extracted p.84 (at FY2024 end)",
+   "type": "absolute"
+  },
+  "totalUnits": {
+   "value": 257,
+   "source": "FDD Item 20, extracted p.84 (at FY2024 end)",
+   "type": "absolute"
+  },
+  "item19Summary": {
+   "value": "168 reporting franchised restaurants (2024); average $1,933,346; median $1,929,925 (FDD Item 19, extracted pp.77-78)",
+   "source": "FDD Item 19",
+   "type": "absolute"
+  },
+  "netWorthRequirement": {
+   "value": "not disclosed in FDD",
+   "source": "grep over FDD text: zero net-worth requirement hits (see provenance)",
+   "type": "absolute"
+  },
+  "liquidCapitalRequirement": {
+   "value": "not disclosed in FDD",
+   "source": "grep over FDD text: zero liquid-capital hits (see provenance)",
+   "type": "absolute"
+  },
+  "category": {
+   "value": "Food & Beverage",
+   "source": "brand vertical classification",
+   "type": "absolute"
+  },
+  "website": {
+   "value": "https://perkinsfranchising.com/",
+   "source": "official franchisor site, fetched 2026-09-15",
+   "type": "absolute"
+  },
+  "websiteUrl": {
+   "value": "https://perkinsfranchising.com/",
+   "source": "official franchisor site, fetched 2026-09-15",
+   "type": "absolute"
+  },
+  "logoUrl": {
+   "value": "https://perkinsfranchising.com/wp-content/uploads/2023/07/logo-header.svg",
+   "source": "official franchisor site, HEAD 200 image/* 2026-09-15",
+   "type": "absolute"
+  },
+  "yearFounded": {
+   "value": 1958,
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "yearFranchising": {
+   "value": 2020,
+   "source": "FDD Item 1",
+   "type": "absolute"
+  },
+  "fddYear": {
+   "value": 2025,
+   "source": "source document",
+   "type": "absolute"
+  },
+  "fddVintage": {
+   "value": "issued September 30, 2025; amended October 23, 2025 and January 12, 2026",
+   "source": "source document",
+   "type": "absolute"
+  },
+  "description": {
+   "value": "Perkins LLC franchises full-service family restaurants operating as Perkins Restaurant and Bakery, a brand serving all-day breakfast, lunch, dinner, and bakery since 1958. Its Franchise Disclosure Document reports 257 restaurants open at the end of fiscal 2024, including 175 franchised and 82 company-owned locations. Item 19 shows 168 reporting franchised restaurants averaging $1,933,346 in annual sales with a $1,929,925 median. The standard franchise fee is $40,000 for a 20-year term, and the estimated initial investment for a traditional restaurant ranges from $1,443,890 to $3,581,375. Franchisees pay a 4% weekly royalty plus a 3% brand fund contribution and 1% local marketing requirement, and territories are non-exclusive.",
+   "source": "summary of FDD Items 1/5/6/7/12/19/20",
+   "type": "absolute"
+  },
+  "openLocations": {
+   "value": 257,
+   "source": "FDD Item 20, extracted p.84 (at FY2024 end)",
+   "type": "absolute"
+  },
+  "item20PinCount": {
+   "value": 257,
+   "source": "FDD Item 20, extracted p.84 (at FY2024 end)",
+   "type": "absolute"
+  }
+ },
+ "pinVerification": {
+  "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50 km tolerance",
+  "run_utc": "2026-09-15T09:56:24.221387+00:00",
+  "run_by": "builder lane verify_pins.py (genuine re-run, post-geocode)",
+  "pins_total": 12,
+  "pins_verified": 12,
+  "pins_mismatch": 0,
+  "pins_unverifiable": 0,
+  "all_verified": true,
+  "tolerance_km": 50.0,
+  "source_data_mtime_utc": "2026-09-15T09:54:28.793694+00:00",
+  "per_pin": [
+   {
+    "pin": 0,
+    "city": "Blytheville",
+    "state": "AR",
+    "stored": [
+     35.9283249,
+     -89.9045612
+    ],
+    "geocoded": [
+     35.9283249,
+     -89.9045612
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 1,
+    "city": "Fort Dodge",
+    "state": "IA",
+    "stored": [
+     42.5044017,
+     -94.1910044
+    ],
+    "geocoded": [
+     42.5044017,
+     -94.1910044
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 2,
+    "city": "Bemidji",
+    "state": "MN",
+    "stored": [
+     47.4723148,
+     -94.8832791
+    ],
+    "geocoded": [
+     47.4723148,
+     -94.8832791
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 3,
+    "city": "Worthington",
+    "state": "MN",
+    "stored": [
+     43.6205056,
+     -95.5956434
+    ],
+    "geocoded": [
+     43.6205056,
+     -95.5956434
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 4,
+    "city": "Staten Island",
+    "state": "NY",
+    "stored": [
+     40.5834557,
+     -74.1496048
+    ],
+    "geocoded": [
+     40.5834557,
+     -74.1496048
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 5,
+    "city": "Avondale",
+    "state": "PA",
+    "stored": [
+     39.8247928,
+     -75.7832662
+    ],
+    "geocoded": [
+     39.8247928,
+     -75.7832662
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 6,
+    "city": "Lewisburg",
+    "state": "PA",
+    "stored": [
+     40.9645337,
+     -76.8847639
+    ],
+    "geocoded": [
+     40.9645337,
+     -76.8847639
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 7,
+    "city": "Yankton",
+    "state": "SD",
+    "stored": [
+     42.8712938,
+     -97.3967011
+    ],
+    "geocoded": [
+     42.8712938,
+     -97.3967011
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 8,
+    "city": "Casper",
+    "state": "WY",
+    "stored": [
+     42.8501191,
+     -106.325138
+    ],
+    "geocoded": [
+     42.8501191,
+     -106.325138
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 9,
+    "city": "Lady Lake",
+    "state": "FL",
+    "stored": [
+     28.9174855,
+     -81.9228604
+    ],
+    "geocoded": [
+     28.9174855,
+     -81.9228604
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 10,
+    "city": "Peoria",
+    "state": "IL",
+    "stored": [
+     40.6938609,
+     -89.5891008
+    ],
+    "geocoded": [
+     40.6938609,
+     -89.5891008
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   },
+   {
+    "pin": 11,
+    "city": "Maplewood",
+    "state": "MN",
+    "stored": [
+     45.0082216,
+     -93.0456985
+    ],
+    "geocoded": [
+     45.0082216,
+     -93.0456985
+    ],
+    "distance_km": 0.0,
+    "status": "verified"
+   }
+  ]
+ },
+ "pinsUpdatedAt": "2026-09-15T09:56:24.221387+00:00"
+}
